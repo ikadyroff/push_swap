@@ -14,9 +14,11 @@
   * To re-compile:
     - `make re`
   
+  
 ### Executing
 
   ./push_swap <an argument the stack a formatted as a list of integers>
+  
   
 ### Example
 
